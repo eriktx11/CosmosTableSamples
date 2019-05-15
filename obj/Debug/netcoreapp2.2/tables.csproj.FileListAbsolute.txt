@@ -1,0 +1,4 @@
+/Users/erikllerena/VSC/CosmosTableSamples/obj/Debug/netcoreapp2.2/tables.csprojAssemblyReference.cache
+/Users/erikllerena/VSC/CosmosTableSamples/obj/Debug/netcoreapp2.2/tables.csproj.CoreCompileInputs.cache
+/Users/erikllerena/VSC/CosmosTableSamples/obj/Debug/netcoreapp2.2/tables.AssemblyInfoInputs.cache
+/Users/erikllerena/VSC/CosmosTableSamples/obj/Debug/netcoreapp2.2/tables.AssemblyInfo.cs
